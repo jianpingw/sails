@@ -84,7 +84,7 @@
     "skipper": "~0.8.2",
     "uid-safe": "1.1.0",
     "walk": "2.3.9",
-    "waterline": "git+https://github.com/jianpingw/waterline.git"
+    "waterline": "git+https://github.com/jianpingw/waterline.git#jwu"
   },
   "devDependencies": {
     "root-require": "0.3.1",
